@@ -39,9 +39,9 @@ Ao final, os instrutores deixaram alguns desafios, todos completos:
 
 ### Agradecimentos
 
-[Paulo Silveira](https://www.linkedin.com/in/paulosilveira) - Co-fundador e CEO da Alura
-[Rafaella Ballerini](https://www.linkedin.com/in/rafaella-ballerini-45875016a/) - Instrutora de Front-end na Alura, criadora de conteúdo
-[Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer) - Desenvolvedor e Instrutor na Alura
+- [Paulo Silveira](https://www.linkedin.com/in/paulosilveira) - Co-fundador e CEO da Alura
+- [Rafaella Ballerini](https://www.linkedin.com/in/rafaella-ballerini-45875016a/) - Instrutora de Front-end na Alura, criadora de conteúdo
+- [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer) - Desenvolvedor e Instrutor na Alura
 
 ### Autora
 
