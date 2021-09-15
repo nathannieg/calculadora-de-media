@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Imersão Dev Alura 2021</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="page-title">Calculadora de média</h1>
+      <p class="page-subtitle">
+        Descubra qual a sua média de nota de todas as provas!
+      </p>
+      <img
+        src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg"
+        class="page-logo"
+        alt=""
+      />
+      <label for="form" class="label"
+        >Digite suas notas em cada bimestre.</label
+      >
+      <div class="inputs">
+        <input type="number" class="input" placeholder="1° bimestre" id="b1" />
+        <input type="number" class="input" placeholder="2° bimestre" id="b2" />
+        <input type="number" class="input" placeholder="3° bimestre" id="b3" />
+        <input type="number" class="input" placeholder="4° bimestre" id="b4" />
+      </div>
+      <button class="button" type="submit" onclick="calcularMedia()">
+        Calcular média
+      </button>
+      <div class="calculator">
+        <div class="top-line"></div>
+        <div class="text">
+          <p class="description">Veja sua nota:</p>
+          <p class="nota" id="nota"></p>
+          <p class="status" id="status"></p>
+        </div>
+      </div>
+      <div contentinfo="attribution" class="attribution">
+        Coded by
+        <a href="https://github.com/nathannieg" target="_blank" class="github"
+          >Nathannie Gomes</a
+        >.
+      </div>
+    </div>
+    <a href="https://alura.com.br/" target="_blank">
+      <img
+        src="https://www.alura.com.br/assets/img/home/alura-logo.svg"
+        alt=""
+        class="alura-logo"
+      />
+    </a>
+    <script src="script.js"></script>
+  </body>
+</html>
