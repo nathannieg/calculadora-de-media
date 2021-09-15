@@ -10,7 +10,7 @@ Ao final, os instrutores deixaram alguns desafios, todos completos:
 - Estilizar a página
 - Escrever resultados na página, em vez de no console
 
-(Clique para acessar a calculadora)[https://nathannieg.github.io/calculadora-de-media/].
+[Clique para acessar a calculadora](https://nathannieg.github.io/calculadora-de-media/).
 
 \*Ao clicar no link acima, dar refresh na página se aparecer um erro.
 
